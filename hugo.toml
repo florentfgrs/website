@@ -1,0 +1,15 @@
+baseURL = "http://glim-midnight.pages.dev"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "Florent Fougères"
+    phrases = ["Geomaticien", "Developpeur", "SIG"]
+    links = [
+    {name = "Github", url = "https://github.com/florentfgrs/"},
+    {name = "X", url = "https://twitter.com/florent1foug"},
+    {name = "Linkedin", url = "https://www.linkedin.com/in/florent-foug%C3%A8res-083597b8/"},
+    {name = "Mastodon", url = "https://mapstodon.space/@florent001"},
+    {name = "Email", url = "mailto:florent.fougeres@gmail.com"},
+    ]
+    background = "bg.mp4"
