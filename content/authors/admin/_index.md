@@ -35,9 +35,9 @@ profiles:
     url: https://www.linkedin.com/in/florent-fougères-083597b8/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - SIG
+  - QGIS
+  - Data science
 
 education:
   - area: PhD Artificial Intelligence
