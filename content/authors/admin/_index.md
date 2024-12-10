@@ -31,8 +31,14 @@ profiles:
     url: https://x.com/florent1foug
   - icon: brands/github
     url: https://github.com/florentfgrs
+  - icon: custom/gitlab
+    url: https://gitlab.com/florent_fougeres
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/florent-fougères-083597b8/
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/florentfgrs.bsky.social
+  - icon: brands/mastodon
+    url: https://mapstodon.space/@florent001
 
 interests:
   - SIG
